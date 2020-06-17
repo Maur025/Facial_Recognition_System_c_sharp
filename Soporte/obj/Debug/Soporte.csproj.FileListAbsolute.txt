@@ -1,0 +1,9 @@
+D:\Grado_proy\Grado_pro\Soporte\bin\Debug\Soporte.dll
+D:\Grado_proy\Grado_pro\Soporte\bin\Debug\Soporte.pdb
+D:\Grado_proy\Grado_pro\Soporte\obj\Debug\Soporte.csproj.CoreCompileInputs.cache
+D:\Grado_proy\Grado_pro\Soporte\obj\Debug\Soporte.dll
+D:\Grado_proy\Grado_pro\Soporte\obj\Debug\Soporte.pdb
+C:\Users\Mauro\Proyectos\Grado_pro\Soporte\bin\Debug\Soporte.dll
+C:\Users\Mauro\Proyectos\Grado_pro\Soporte\bin\Debug\Soporte.pdb
+C:\Users\Mauro\Proyectos\Grado_pro\Soporte\obj\Debug\Soporte.dll
+C:\Users\Mauro\Proyectos\Grado_pro\Soporte\obj\Debug\Soporte.pdb
